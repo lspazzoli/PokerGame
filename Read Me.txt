@@ -1,0 +1,2 @@
+Hello To run this please make sure you have java jdk and jre installed 
+and your path vareable has javac and java. Enjoy
